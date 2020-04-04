@@ -124,14 +124,15 @@ const IndexPage = () => {
       <Map {...mapSettings}>
       </Map>
 
-      {/* <Container type="content" className="text-center home-start">
-        <h2>Still Getting Started?</h2>
-        <p>Run the following in your terminal!</p>
+      <Container type="content" className="text-center home-start">
+        <h2>MediPharma Konnect Urges you to Stay Home.</h2>
+        <p>During this time each country is focused on the health and safety of citizens and communities and have been
+          strongly encouraged to stay home,stay safe.
+        </p>
         <pre>
-          <code>gatsby new [directory] https://github.com/colbyfayock/gatsby-starter-leaflet</code>
+          <code> http://medipharmakonnect.com/</code>
         </pre>
-        <p className="note">Note: Gatsby CLI required globally for the above command</p>
-      </Container> */}
+      </Container>
     </Layout>
   );
 };

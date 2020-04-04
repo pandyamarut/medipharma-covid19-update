@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header>
       <Container type="content">
-        <p>MediPharma Connect initiative</p>
+        <p>MediPharma konnect initiative</p>
         <ul>
           <li>
           </li>
